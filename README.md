@@ -1,5 +1,4 @@
-Hello, 
-I am Alper from Bilkent. I am an ECON major but I get great joy from programming.
+
 
 <!--
 **Clark357/Clark357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
